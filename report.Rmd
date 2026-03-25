@@ -1,6 +1,6 @@
 ---
 title: "Assignment 6 Report"
-author: "Taylor Falk"
+author: "Han Yi"
 date: "1/24/2022"
 output: html_document
 ---
